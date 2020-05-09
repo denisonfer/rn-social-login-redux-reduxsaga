@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">loginSocial</string>
+    <string name="facebook_app_id">255770948959620</string> <string name="fb_login_protocol_scheme">fb255770948959620</string>
+    <string name="server_client_id">216787928981-6n95kdeisdn5km4gu1hh1m1vdqr781gl.apps.googleusercontent.com</string>
+</resources>
